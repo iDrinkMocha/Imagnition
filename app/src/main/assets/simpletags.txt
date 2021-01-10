@@ -1,0 +1,1861 @@
+Kit Fox
+English Setter
+Siberian Husky
+Australian Terrier
+English Springer
+Grey Whale
+Panda
+Egyptian Cat
+Ibex
+Persian Cat
+Cougar
+Gazelle
+Porcupine
+Sea Lion
+Malamute
+Badger
+Great Dane
+Walker Hound
+Welsh Springer Spaniel
+Whippet
+Scottish Deerhound
+Killer Whale
+Mink
+African Elephant
+Weimaraner
+Soft-coated Wheaten Terrier
+Dandie Dinmont
+Red Wolf
+Old English Sheepdog
+Jaguar
+Otterhound
+Bloodhound
+Airedale
+Hyena
+Meerkat
+Giant Schnauzer
+Titi
+Three-toed Sloth
+Sorrel
+Black-footed Ferret
+Dalmatian
+Black-and-tan Coonhound
+Papillon
+Skunk
+Staffordshire Bullterrier
+Mexican Hairless
+Bouvier Des Flandres
+Weasel
+Miniature Poodle
+Cardigan
+Malinois
+Bighorn
+Fox Squirrel
+Colobus
+Tiger Cat
+Lhasa
+Impala
+Coyote
+Yorkshire Terrier
+Newfoundland
+Brown Bear
+Red Fox
+Norwegian Elkhound
+Rottweiler
+Hartebeest
+Saluki
+Grey Fox
+Schipperke
+Pekinese
+Brabancon Griffon
+West Highland White Terrier
+Sealyham Terrier
+Guenon
+Mongoose
+Indri
+Tiger
+Irish Wolfhound
+Wild Boar
+EntleBucher
+Zebra
+Ram
+French Bulldog
+Orangutan
+Basenji
+Leopard
+Bernese Mountain Dog
+Maltese Dog
+Norfolk Terrier
+Toy Terrier
+Vizsla
+Cairn
+Squirrel Monkey
+Groenendael
+Clumber
+Siamese Cat
+Chimpanzee
+Komondor
+Afghan Hound
+Japanese Spaniel
+Proboscis Monkey
+Guinea Pig
+White Wolf
+Ice Bear
+Gorilla
+Borzoi
+Toy Poodle
+Kerry Blue Terrier
+Ox
+Scotch Terrier
+Tibetan Mastiff
+Spider Monkey
+Doberman
+Boston Bull
+Greater Swiss Mountain Dog
+Appenzeller
+Shih-Tzu
+Irish Water Spaniel
+Pomeranian
+Bedlington Terrier
+Warthog
+Arabian Camel
+Siamang
+Miniature Schnauzer
+Collie
+Golden Retriever
+Irish Terrier
+Affenpinscher
+Border Collie
+Hare
+Boxer
+Silky Terrier
+Beagle
+Leonberg
+German Short-haired Pointer
+Patas
+Dhole
+Baboon
+Macaque
+Chesapeake Bay Retriever
+Bull Mastiff
+Kuvasz
+Capuchin
+Pug
+Curly-coated Retriever
+Norwich Terrier
+Flat-coated Retriever
+Hog
+Keeshond
+Eskimo Dog
+Brittany Spaniel
+Standard Poodle
+Lakeland Terrier
+Snow Leopard
+Gordon Setter
+Dingo
+Standard Schnauzer
+Hamster
+Tibetan Terrier
+Arctic Fox
+Wire-haired Fox Terrier
+Basset
+Water Buffalo
+American Black Bear
+Angora
+Bison
+Howler Monkey
+Hippopotamus
+Chow
+Giant Panda
+American Staffordshire Terrier
+Shetland Sheepdog
+Great Pyrenees
+Chihuahua
+Tabby
+Marmoset
+Labrador Retriever
+Saint Bernard
+Armadillo
+Samoyed
+Bluetick
+Redbone
+Polecat
+Marmot
+Kelpie
+Gibbon
+Llama
+Miniature Pinscher
+Wood Rabbit
+Italian Greyhound
+Lion
+Cocker Spaniel
+Irish Setter
+Dugong
+Indian Elephant
+Beaver
+Sussex Spaniel
+Pembroke
+Blenheim Spaniel
+Madagascar Cat
+Rhodesian Ridgeback
+Lynx
+African Hunting Dog
+Langur
+Ibizan Hound
+Timber Wolf
+Cheetah
+English Foxhound
+Briard
+Sloth Bear
+Border Terrier
+German Shepherd
+Otter
+Koala
+Tusker
+Echidna
+Wallaby
+Platypus
+Wombat
+Revolver
+Umbrella
+Schooner
+Soccer Ball
+Accordion
+Ant
+Starfish
+Chambered Nautilus
+Grand Piano
+Laptop
+Strawberry
+Airliner
+Warplane
+Airship
+Balloon
+Space Shuttle
+Fireboat
+Gondola
+Speedboat
+Lifeboat
+Canoe
+Yawl
+Catamaran
+Trimaran
+Container Ship
+Liner
+Pirate
+Aircraft Carrier
+Submarine
+Wreck
+Half Track
+Tank
+Missile
+Bobsled
+Dogsled
+Bicycle-built-for-two
+Mountain Bike
+Freight Car
+Passenger Car
+Barrow
+Shopping Cart
+Motor Scooter
+Forklift
+Electric Locomotive
+Steam Locomotive
+Amphibian
+Ambulance
+Beach Wagon
+Cab
+Convertible
+Jeep
+Limousine
+Minivan
+Model T
+Racer
+Sports Car
+Go-kart
+Golfcart
+Moped
+Snowplow
+Fire Engine
+Garbage Truck
+Pickup
+Tow Truck
+Trailer Truck
+Moving Van
+Police Van
+Recreational Vehicle
+Streetcar
+Snowmobile
+Tractor
+Mobile Home
+Tricycle
+Unicycle
+Horse Cart
+Jinrikisha
+Oxcart
+Bassinet
+Cradle
+Crib
+Four-poster
+Bookcase
+China Cabinet
+Medicine Chest
+Chiffonier
+Table Lamp
+File
+Park Bench
+Barber Chair
+Throne
+Folding Chair
+Rocking Chair
+Studio Couch
+Toilet Seat
+Desk
+Pool Table
+Dining Table
+Entertainment Center
+Wardrobe
+Granny Smith
+Orange
+Lemon
+Fig
+Pineapple
+Banana
+Jackfruit
+Custard Apple
+Pomegranate
+Acorn
+Hip
+Ear
+Rapeseed
+Corn
+Buckeye
+Organ
+Upright
+Chime
+Drum
+Gong
+Maraca
+Marimba
+Steel Drum
+Banjo
+Cello
+Violin
+Harp
+Acoustic Guitar
+Electric Guitar
+Cornet
+French Horn
+Trombone
+Harmonica
+Ocarina
+Panpipe
+Bassoon
+Oboe
+Sax
+Flute
+Daisy
+Yellow Lady's Slipper
+Cliff
+Valley
+Alp
+Volcano
+Promontory
+Sandbar
+Coral Reef
+Lakeside
+Seashore
+Geyser
+Hatchet
+Cleaver
+Letter Opener
+Plane
+Power Drill
+Lawn Mower
+Hammer
+Corkscrew
+Can Opener
+Plunger
+Screwdriver
+Shovel
+Plow
+Chain Saw
+Cock
+Hen
+Ostrich
+Brambling
+Goldfinch
+House Finch
+Junco
+Indigo Bunting
+Robin
+Bulbul
+Jay
+Magpie
+Chickadee
+Water Ouzel
+Kite
+Bald Eagle
+Vulture
+Great Grey Owl
+Black Grouse
+Ptarmigan
+Ruffed Grouse
+Prairie Chicken
+Peacock
+Quail
+Partridge
+African Grey
+Macaw
+Sulphur-crested Cockatoo
+Lorikeet
+Coucal
+Bee Eater
+Hornbill
+Hummingbird
+Jacamar
+Toucan
+Drake
+Red-breasted Merganser
+Goose
+Black Swan
+White Stork
+Black Stork
+Spoonbill
+Flamingo
+American Egret
+Little Blue Heron
+Bittern
+Crane
+Limpkin
+American Coot
+Bustard
+Ruddy Turnstone
+Red-backed Sandpiper
+Redshank
+Dowitcher
+Oystercatcher
+European Gallinule
+Pelican
+King Penguin
+Albatross
+Great White Shark
+Tiger Shark
+Hammerhead
+Electric Ray
+Stingray
+Barracouta
+Coho
+Tench
+Goldfish
+Eel
+Rock Beauty
+Anemone Fish
+Lionfish
+Puffer
+Sturgeon
+Gar
+Loggerhead
+Leatherback Turtle
+Mud Turtle
+Terrapin
+Box Turtle
+Banded Gecko
+Common Iguana
+American Chameleon
+Whiptail
+Agama
+Frilled Lizard
+Alligator Lizard
+Gila Monster
+Green Lizard
+African Chameleon
+Komodo Dragon
+Triceratops
+African Crocodile
+American Alligator
+Thunder Snake
+Ringneck Snake
+Hognose Snake
+Green Snake
+King Snake
+Garter Snake
+Water Snake
+Vine Snake
+Night Snake
+Boa Constrictor
+Rock Python
+Indian Cobra
+Green Mamba
+Sea Snake
+Horned Viper
+Diamondback
+Sidewinder
+European Fire Salamander
+Common Newt
+Eft
+Spotted Salamander
+Axolotl
+Bullfrog
+Tree Frog
+Tailed Frog
+Whistle
+Wing
+Paintbrush
+Hand Blower
+Oxygen Mask
+Snorkel
+Loudspeaker
+Microphone
+Screen
+Mouse
+Electric Fan
+Oil Filter
+Strainer
+Space Heater
+Stove
+Guillotine
+Barometer
+Rule
+Odometer
+Scale
+Analog Clock
+Digital Clock
+Wall Clock
+Hourglass
+Sundial
+Parking Meter
+Stopwatch
+Digital Watch
+Stethoscope
+Syringe
+Magnetic Compass
+Binoculars
+Projector
+Sunglasses
+Loupe
+Radio Telescope
+Bow
+Cannon
+Assault Rifle
+Rifle
+Projectile
+Computer Keyboard
+Typewriter Keyboard
+Crane
+Lighter
+Abacus
+Cash Machine
+Slide Rule
+Desktop Computer
+Hand-held Computer
+Notebook
+Web Site
+Harvester
+Thresher
+Printer
+Slot
+Vending Machine
+Sewing Machine
+Joystick
+Switch
+Hook
+Car Wheel
+Paddlewheel
+Pinwheel
+Potter's Wheel
+Gas Pump
+Carousel
+Swing
+Reel
+Radiator
+Puck
+Hard Disc
+Sunglass
+Pick
+Car Mirror
+Solar Dish
+Remote Control
+Disk Brake
+Buckle
+Hair Slide
+Knot
+Combination Lock
+Padlock
+Nail
+Safety Pin
+Screw
+Muzzle
+Seat Belt
+Ski
+Candle
+Jack-o'-lantern
+Spotlight
+Torch
+Neck Brace
+Pier
+Tripod
+Maypole
+Mousetrap
+Spider Web
+Trilobite
+Harvestman
+Scorpion
+Black And Gold Garden Spider
+Barn Spider
+Garden Spider
+Black Widow
+Tarantula
+Wolf Spider
+Tick
+Centipede
+Isopod
+Dungeness Crab
+Rock Crab
+Fiddler Crab
+King Crab
+American Lobster
+Spiny Lobster
+Crayfish
+Hermit Crab
+Tiger Beetle
+Ladybug
+Ground Beetle
+Long-horned Beetle
+Leaf Beetle
+Dung Beetle
+Rhinoceros Beetle
+Weevil
+Fly
+Bee
+Grasshopper
+Cricket
+Walking Stick
+Cockroach
+Mantis
+Cicada
+Leafhopper
+Lacewing
+Dragonfly
+Damselfly
+Admiral
+Ringlet
+Monarch
+Cabbage Butterfly
+Sulphur Butterfly
+Lycaenid
+Jellyfish
+Sea Anemone
+Brain Coral
+Flatworm
+Nematode
+Conch
+Snail
+Slug
+Sea Slug
+Chiton
+Sea Urchin
+Sea Cucumber
+Iron
+Espresso Maker
+Microwave
+Dutch Oven
+Rotisserie
+Toaster
+Waffle Iron
+Vacuum
+Dishwasher
+Refrigerator
+Washer
+Crock Pot
+Frying Pan
+Wok
+Caldron
+Coffeepot
+Teapot
+Spatula
+Altar
+Triumphal Arch
+Patio
+Steel Arch Bridge
+Suspension Bridge
+Viaduct
+Barn
+Greenhouse
+Palace
+Monastery
+Library
+Apiary
+Boathouse
+Church
+Mosque
+Stupa
+Planetarium
+Restaurant
+Cinema
+Home Theater
+Lumbermill
+Coil
+Obelisk
+Totem Pole
+Castle
+Window Grille
+Grocery Store
+Bakery
+Barbershop
+Bookshop
+Butcher Shop
+Confectionery
+Shoe Shop
+Tobacco Shop
+Toyshop
+Fountain
+Cliff Dwelling
+Yurt
+Dock
+Brass
+Megalith
+Bannister
+Breakwater
+Dam
+Chainlink Fence
+Picket Fence
+Worm Fence
+Stone Wall
+Grille
+Sliding Door
+Turnstile
+Mountain Tent
+Scoreboard
+Honeycomb
+Plate Rack
+Pedestal
+Beacon
+Mashed Potato
+Bell Pepper
+Head Cabbage
+Broccoli
+Cauliflower
+Zucchini
+Spaghetti Squash
+Acorn Squash
+Butternut Squash
+Cucumber
+Artichoke
+Cardoon
+Mushroom
+Shower Curtain
+Jean
+Carton
+Handkerchief
+Sandal
+Ashcan
+Safe
+Plate
+Necklace
+Croquet Ball
+Fur Coat
+Thimble
+Pajama
+Running Shoe
+Cocktail Shaker
+Chest
+Manhole Cover
+Modem
+Tub
+Tray
+Balance Beam
+Bagel
+Prayer Rug
+Kimono
+Hot Pot
+Whiskey Jug
+Knee Pad
+Book Jacket
+Spindle
+Ski Mask
+Beer Bottle
+Crash Helmet
+Bottlecap
+Tile Roof
+Mask
+Maillot
+Petri Dish
+Football Helmet
+Bathing Cap
+Teddy
+Holster
+Pop Bottle
+Photocopier
+Vestment
+Crossword Puzzle
+Golf Ball
+Trifle
+Suit
+Water Tower
+Feather Boa
+Cloak
+Red Wine
+Drumstick
+Shield
+Christmas Stocking
+Hoopskirt
+Menu
+Stage
+Bonnet
+Meat Loaf
+Baseball
+Face Powder
+Scabbard
+Sunscreen
+Beer Glass
+Hen-of-the-woods
+Guacamole
+Lampshade
+Wool
+Hay
+Bow Tie
+Mailbag
+Water Jug
+Bucket
+Dishrag
+Soup Bowl
+Eggnog
+Mortar
+Trench Coat
+Paddle
+Chain
+Swab
+Mixing Bowl
+Potpie
+Wine Bottle
+Shoji
+Bulletproof Vest
+Drilling Platform
+Binder
+Cardigan
+Sweatshirt
+Pot
+Birdhouse
+Hamper
+Ping-pong Ball
+Pencil Box
+Pay-phone
+Broth
+Apron
+Punching Bag
+Backpack
+Groom
+Bearskin
+Pencil Sharpener
+Broom
+Mosquito Net
+Abaya
+Mortarboard
+Poncho
+Crutch
+Polaroid Camera
+Space Bar
+Cup
+Racket
+Traffic Light
+Quill
+Radio
+Dough
+Cuirass
+Military Uniform
+Lipstick
+Shower Cap
+Monitor
+Oscilloscope
+Mitten
+Brassiere
+French Loaf
+Vase
+Milk Can
+Rugby Ball
+Paper Towel
+Earthstar
+Paper
+Miniskirt
+Cowboy Hat
+Trolleybus
+Perfume
+Bathtub
+Hotdog
+Coral Fungus
+Bullet Train
+Pillow
+Toilet Tissue
+Cassette
+Carpenter's Kit
+Ladle
+Stinkhorn
+Lotion
+Hair Spray
+Academic Gown
+Dome
+Crate
+Wig
+Burrito
+Pill Bottle
+Chain Mail
+Theater Curtain
+Window Shade
+Barrel
+Washbasin
+Ballpoint
+Basketball
+Bath Towel
+Cowboy Boot
+Gown
+Window Screen
+Agaric
+Cellular Telephone
+Nipple
+Barbell
+Mailbox
+Lab Coat
+Fire Screen
+Minibus
+Packet
+Maze
+Pole
+Horizontal Bar
+Sombrero
+Pickelhaube
+Rain Barrel
+Wallet
+Cassette Player
+Comic Book
+Piggy Bank
+Street Sign
+Bell Cote
+Fountain Pen
+Windsor Tie
+Volleyball
+Overskirt
+Sarong
+Purse
+Bolo Tie
+Bib
+Parachute
+Sleeping Bag
+Television
+Swimming Trunks
+Measuring Cup
+Espresso
+Pizza
+Breastplate
+Shopping Basket
+Wooden Spoon
+Saltshaker
+Chocolate Sauce
+Ballplayer
+Goblet
+Gyromitra
+Stretcher
+Water Bottle
+Dial Telephone
+Soap Dispenser
+Jersey
+School Bus
+Jigsaw Puzzle
+Plastic Bag
+Reflex Camera
+Diaper
+Band Aid
+Ice Lolly
+Velvet
+Tennis Ball
+Gasmask
+Doormat
+Loafer
+Ice Cream
+Pretzel
+Quilt
+Maillot
+Tape Player
+Clog
+IPod
+Bolete
+Scuba Diver
+Pitcher
+Matchstick
+Bikini
+Sock
+CD Player
+Lens Cap
+Thatch
+Vault
+Beaker
+Bubble
+Cheeseburger
+Parallel Bars
+Flagpole
+Coffee Mug
+Rubber Eraser
+Stole
+Carbonara
+Dumbbell
+Entity
+Physical Entity
+Matter
+Substance
+Food
+Foodstuff
+Starches
+Potato
+Bread
+Loaf Of Bread
+Cracker
+Bun
+Ingredient
+Flavorer
+Condiment
+Dip
+Sauce
+Spaghetti Sauce
+Concoction
+Fare
+Nutriment
+Dish
+Stew
+Soup
+Snack Food
+Sandwich
+Hamburger
+Course
+Entree
+Dessert
+Frozen Dessert
+Pudding
+Feed
+Fodder
+Beverage
+Coffee
+Alcohol
+Wine
+Mixed Drink
+Punch
+Agent
+Drug
+Drug Of Abuse
+Medicine
+Powder
+Substance
+Material
+Paper
+Tissue
+Fluid
+Liquid
+Solid
+Food
+Baked Goods
+Produce
+Edible Fruit
+Apple
+Eating Apple
+Berry
+Citrus
+Vegetable
+Solanaceous Vegetable
+Pepper
+Sweet Pepper
+Root Vegetable
+Cruciferous Vegetable
+Cabbage
+Squash
+Summer Squash
+Winter Squash
+Causal Agent
+Person
+Contestant
+Player
+Athlete
+Explorer
+Diver
+Peer
+Associate
+Participant
+Object
+Geological Formation
+Natural Depression
+Natural Elevation
+Mountain
+Ridge
+Bar
+Reef
+Shore
+Spring
+Location
+Point
+Geographic Point
+Workplace
+Whole
+Natural Object
+Mechanism
+Barrier
+Plant Part
+Plant Organ
+Reproductive Structure
+Fruit
+Seed
+Oilseed
+Grain
+Kernel
+Pome
+Living Thing
+Organism
+Plant
+Vascular Plant
+Spermatophyte
+Angiosperm
+Flower
+Orchid
+Lady's Slipper
+Fungus
+Basidiomycete
+Animal
+Invertebrate
+Arthropod
+Arachnid
+Spider
+Acarine
+Crustacean
+Malacostracan Crustacean
+Decapod Crustacean
+Crab
+Lobster
+True Lobster
+Insect
+Beetle
+Lamellicorn Beetle
+Scarabaeid Beetle
+Dipterous Insect
+Hymenopterous Insect
+Orthopterous Insect
+Phasmid
+Dictyopterous Insect
+Homopterous Insect
+Neuropteron
+Odonate
+Lepidopterous Insect
+Butterfly
+Nymphalid
+Danaid
+Pierid
+Coelenterate
+Anthozoan
+Coral
+Stony Coral
+Worm
+Mollusk
+Gastropod
+Cephalopod
+Echinoderm
+Domestic Animal
+Domestic Cat
+Dog
+Hunting Dog
+Sporting Dog
+Pointer
+Setter
+Spaniel
+Water Spaniel
+Springer Spaniel
+Retriever
+Terrier
+Fox Terrier
+Wirehair
+Welsh Terrier
+Schnauzer
+Bullterrier
+Hound
+Wolfhound
+Coonhound
+Foxhound
+Greyhound
+Corgi
+Poodle
+Griffon
+Working Dog
+Shepherd Dog
+Belgian Sheepdog
+Watchdog
+Pinscher
+Sled Dog
+Sennenhunde
+Mastiff
+Bulldog
+Spitz
+Toy Dog
+Toy Spaniel
+English Toy Spaniel
+Game
+Game Bird
+Grouse
+Phasianid
+Pheasant
+Peafowl
+Racer
+Chordate
+Vertebrate
+Mammal
+Placental
+Lagomorph
+Leporid
+Rabbit
+Primate
+Lemur
+Ape
+Anthropoid Ape
+Great Ape
+Lesser Ape
+Monkey
+New World Monkey
+Old World Monkey
+Proboscidean
+Elephant
+Carnivore
+Bear
+Musteline Mammal
+Procyonid
+Viverrine
+Canine
+Wild Dog
+Fox
+Wolf
+Feline
+Cat
+Wildcat
+Big Cat
+Aquatic Mammal
+Sea Cow
+Pinniped Mammal
+Seal
+Eared Seal
+Cetacean
+Whale
+Toothed Whale
+Dolphin
+Baleen Whale
+Ungulate
+Odd-toed Ungulate
+Equine
+Horse
+Even-toed Ungulate
+Camel
+Ruminant
+Bovid
+Sheep
+Antelope
+Wild Sheep
+Mountain Sheep
+Goat
+Wild Goat
+Old World Buffalo
+Bovine
+Cattle
+Swine
+Edentate
+Sloth
+Pachyderm
+Rodent
+Cavy
+Squirrel
+Tree Squirrel
+Prototherian
+Monotreme
+Metatherian
+Marsupial
+Phalanger
+Kangaroo
+Bird
+Ratite
+Passerine
+Oscine
+Finch
+Bunting
+Thrush
+Nightingale
+Corvine Bird
+Titmouse
+Bird Of Prey
+Hawk
+Eagle
+Owl
+Gallinaceous Bird
+Parrot
+Cockatoo
+Lory
+Cuculiform Bird
+Cuckoo
+Coraciiform Bird
+Apodiform Bird
+Piciform Bird
+Aquatic Bird
+Waterfowl
+Anseriform Bird
+Duck
+Sea Duck
+Merganser
+Swan
+Wading Bird
+Stork
+Heron
+Egret
+Rail
+Coot
+Shorebird
+Plover
+Turnstone
+Sandpiper
+Snipe
+Gallinule
+Purple Gallinule
+Seabird
+Pelecaniform Seabird
+Sphenisciform Seabird
+Penguin
+Pelagic Bird
+Reptile
+Anapsid
+Chelonian
+Turtle
+Sea Turtle
+Diapsid
+Saurian
+Lizard
+Gecko
+Iguanid
+Teiid Lizard
+Agamid
+Anguid Lizard
+Venomous Lizard
+Lacertid Lizard
+Chameleon
+Monitor
+Archosaur
+Dinosaur
+Ornithischian
+Ceratopsian
+Crocodilian Reptile
+Alligator
+Crocodile
+Snake
+Colubrid Snake
+Constrictor
+Boa
+Python
+Elapid
+Cobra
+Mamba
+Black Mamba
+Viper
+Pit Viper
+Rattlesnake
+Amphibian
+Frog
+True Frog
+Salamander
+Newt
+Ambystomid
+Aquatic Vertebrate
+Fish
+Cartilaginous Fish
+Elasmobranch
+Shark
+Mackerel Shark
+Requiem Shark
+Ray
+Food Fish
+Salmon
+Bony Fish
+Teleost Fish
+Soft-finned Fish
+Cypriniform Fish
+Cyprinid
+Salmonid
+Spiny-finned Fish
+Percoid Fish
+Butterfly Fish
+Damselfish
+Scorpaenoid
+Scorpaenid
+Plectognath
+Ganoid
+Artifact
+Instrumentality
+Device
+Musical Instrument
+Keyboard Instrument
+Piano
+Percussion Instrument
+Stringed Instrument
+Bowed Stringed Instrument
+Chordophone
+Guitar
+Wind Instrument
+Brass
+Free-reed Instrument
+Pipe
+Woodwind
+Beating-reed Instrument
+Double-reed Instrument
+Single-reed Instrument
+Acoustic Device
+Airfoil
+Applicator
+Blower
+Breathing Device
+Electrical Device
+Transducer
+Electro-acoustic Transducer
+Electronic Device
+Display
+Fan
+Filter
+Heater
+Instrument
+Instrument Of Execution
+Measuring Instrument
+Measuring Stick
+Meter
+Timepiece
+Watch
+Clock
+Sandglass
+Timer
+Medical Instrument
+Navigational Instrument
+Compass
+Optical Instrument
+Spectacles
+Scientific Instrument
+Magnifier
+Microscope
+Light Microscope
+Hand Glass
+Telescope
+Astronomical Telescope
+Weapon
+Gun
+Firearm
+Autoloader
+Automatic Firearm
+Automatic Rifle
+Machine Gun
+Pistol
+Keyboard
+Lifting Device
+Machine
+Power Tool
+Power Saw
+Calculator
+Computer
+Analog Computer
+Digital Computer
+Personal Computer
+Portable Computer
+Farm Machine
+Printer
+Slot Machine
+Textile Machine
+Mechanism
+Control
+Mechanical Device
+Machine
+Wheel
+Pump
+Ride
+Winder
+Rotating Mechanism
+Circle
+Disk
+Memory Device
+Magnetic Disk
+Optical Device
+Lens
+Converging Lens
+Reflector
+Mirror
+Restraint
+Brake
+Brake System
+Hydraulic Brake
+Fastener
+Clip
+Lock
+Pin
+Safety Belt
+Runner
+Signaling Device
+Source Of Illumination
+Lamp
+Lantern
+Light
+Strengthener
+Brace
+Support
+Rack
+Structural Member
+Upright
+Post
+Trap
+Web
+Implement
+Tool
+Cutting Implement
+Cutter
+Edge Tool
+Ax
+Knife
+Drill
+Garden Tool
+Hand Tool
+Opener
+Bottle Opener
+Utensil
+Kitchen Utensil
+Cooking Utensil
+Cooker
+Pan
+Pot
+Turner
+Cleaning Implement
+Brush
+Eraser
+Sharpener
+Oar
+Rod
+Writing Implement
+Pen
+Stick
+Staff
+Bar
+Lever
+Key
+Sports Implement
+Container
+Wheeled Vehicle
+Bicycle
+Car
+Handcart
+Self-propelled Vehicle
+Armored Vehicle
+Locomotive
+Motor Vehicle
+Car
+Motorcycle
+Minibike
+Truck
+Van
+Passenger Van
+Tracked Vehicle
+Trailer
+Wagon
+Cart
+Basket
+Bag
+Spoon
+Savings Bank
+Dish
+Bowl
+Bin
+Shaker
+Vessel
+Basin
+Jar
+Bottle
+Jug
+Tank
+Reservoir
+Cistern
+Drinking Vessel
+Mug
+Can
+Glass
+Receptacle
+Dispenser
+Package
+Box
+Strongbox
+Measure
+Case
+Equipment
+Sports Equipment
+Golf Equipment
+Baseball Equipment
+Gymnastic Apparatus
+Basketball Equipment
+Croquet Equipment
+Weight
+Game Equipment
+Game
+Puzzle
+Ball
+Photographic Equipment
+Camera
+Gear
+Kit
+Rig
+Drill Rig
+Satellite
+Spacecraft
+Electronic Equipment
+Audio System
+Reproducer
+Stereo
+Peripheral
+Data Input Device
+Telephone
+Radiotelephone
+Apparatus
+Duplicator
+Rescue Equipment
+Toiletry
+Cream
+Cosmetic
+Makeup
+Conveyance
+Vehicle
+Craft
+Aircraft
+Heavier-than-air Craft
+Airplane
+Lighter-than-air Craft
+Vessel
+Boat
+Motorboat
+Sea Boat
+Small Boat
+Sailing Vessel
+Sailboat
+Ship
+Cargo Ship
+Passenger Ship
+Warship
+Submersible
+Military Vehicle
+Rocket
+Sled
+Litter
+Public Transport
+Train
+Passenger Train
+Bus
+Connection
+Attachment
+Ligament
+Furnishing
+Furniture
+Baby Bed
+Bedroom Furniture
+Bed
+Cabinet
+Chest Of Drawers
+Lamp
+Office Furniture
+Seat
+Bench
+Chair
+Chair Of State
+Sofa
+Convertible
+Table
+Table
+Wall Unit
+Rug
+Curtain
+Medium
+Print Media
+Press
+Magazine
+System
+Communication System
+Telecommunication System
+Structure
+Arch
+Area
+Bridge
+Building
+Farm Building
+House
+Residence
+Religious Residence
+Outbuilding
+Shed
+Place Of Worship
+Shrine
+Theater
+Building Complex
+Plant
+Factory
+Column
+Defensive Structure
+Fortification
+Establishment
+Institution
+Penal Institution
+Correctional Institution
+Place Of Business
+Mercantile Establishment
+Marketplace
+Shop
+Housing
+Dwelling
+Landing
+Memorial
+Obstruction
+Barrier
+Fence
+Rail Fence
+Grate
+Movable Barrier
+Door
+Gate
+Shelter
+Tent
+Signboard
+Supporting Structure
+Framework
+Rack
+Support
+Tower
+Creation
+Product
+Work
+Publication
+Sheet
+Board
+Plate
+Fabric
+Piece Of Cloth
+Towel
+Covering
+Wrapping
+Jacket
+Screen
+Footwear
+Shoe
+Boot
+Cloth Covering
+Dressing
+Bandage
+Adhesive Bandage
+Bedclothes
+Floor Cover
+Mat
+Clothing
+Attire
+Disguise
+Hairpiece
+Protective Garment
+Accessory
+Belt
+Outerwear
+Gown
+Garment
+Vest
+Swimsuit
+Trouser
+Scarf
+Neckwear
+Necktie
+Skirt
+Overgarment
+Cloak
+Coat
+Raincoat
+Sweater
+Pullover
+Robe
+Shirt
+Undergarment
+Handwear
+Glove
+Headdress
+Helmet
+Cap
+Hat
+Footwear
+Hosiery
+Tights
+Stocking
+Uniform
+Nightwear
+Apparel
+Workwear
+Woman's Clothing
+Dress
+Protective Covering
+Shield
+Plate
+Armor Plate
+Helmet
+Cap
+Roof
+Blind
+Window Blind
+Shade
+Screen
+Armor
+Body Armor
+Mask
+Face Mask
+Sheath
+Shelter
+Canopy
+Top
+Cap
+Padding
+Cushion
+Commodity
+Consumer Goods
+Durables
+Appliance
+Dryer
+Home Appliance
+Kitchen Appliance
+Coffee Maker
+Oven
+White Goods
+Drygoods
+White Goods
+Linen
+Bath Linen
+Excavation
+Pool
+Decoration
+Adornment
+Jewelry
+Design
+Emblem
+Plaything
+Article
+Ware
+Woodenware
+Tableware
+Cutlery
+Crockery
+Surface
+Horizontal Surface
+Platform
+Part
+Piece
+Abstraction
+Attribute
+Shape
+Round Shape
+Sphere
+Ball
+Globule
+Communication
+Sign
+Signal
+Visual Signal
+Light
+Relation
+Part
+People

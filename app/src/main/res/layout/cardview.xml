@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mochainc.imagnition.SquareRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/tools">
+
+    <android.support.v7.widget.CardView xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/placeCard"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="2dp"
+        card_view:cardBackgroundColor="#80EEEEEE"
+        card_view:cardCornerRadius="0dp"
+        card_view:cardElevation="0dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/container">
+
+
+
+            <ImageView
+                android:id="@+id/placeImage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop" />
+
+            <!-- Used for the ripple effect on touch -->
+
+
+            <LinearLayout
+                android:id="@+id/LongPressHolder"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="?android:selectableItemBackground"
+                android:orientation="horizontal" />
+
+            <mochainc.imagnition.SmoothCheckBox
+                android:id="@+id/scb"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_margin="5dp"
+                android:paddingTop="10dp"
+                app:color_checked="@color/colorAccent"
+                android:visibility="gone"/>
+
+            <LinearLayout
+                android:id="@+id/rippleHolder"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="?android:selectableItemBackground"
+                android:orientation="horizontal" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:id="@+id/headerText"
+                android:textAlignment="center"
+                android:gravity="center"
+                android:textColor="#FFF"
+                android:text=""
+                android:textSize="35sp" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/subHeader"
+                android:layout_below="@+id/headerText"
+                android:textAlignment="center"
+                android:gravity="center"
+                android:textColor="#FFF"
+                android:text=""
+                android:textSize="15sp" />
+
+
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+</mochainc.imagnition.SquareRelativeLayout>

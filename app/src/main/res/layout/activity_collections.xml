@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/collectionsContainerSheet"
+    tools:context="mochainc.imagnition.Collections">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/collectionsActivityList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:background="#000000"
+        android:padding="-4dp"
+        android:layout_marginTop="-3dp"
+        android:layout_marginBottom="-3dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/gradient"
+        android:alpha="0.5"
+        android:background="@drawable/grey_gradient_overlay" />
+
+    <include
+        layout="@layout/app_bar_gallery2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>

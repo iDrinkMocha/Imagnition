@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="mochainc.imagnition.Search"
+    android:background="#FFFFFF">
+    <include
+        android:id="@+id/search_app_bar"
+        layout="@layout/search_app_bar" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:gravity="left"
+        android:layout_below="@id/search_app_bar"
+        android:paddingLeft="15dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingRight="15dp"
+        android:id="@+id/showingresultsheader"
+        android:textColor="@color/colorAccent"
+        android:visibility="gone"/>
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/tagsSearch"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clipToPadding="false"
+        android:layout_below="@id/showingresultsheader"
+        android:paddingTop="10dp"
+        android:paddingBottom="20dp"
+        android:paddingRight="5dp"
+        android:paddingLeft="5dp"/>
+</RelativeLayout>

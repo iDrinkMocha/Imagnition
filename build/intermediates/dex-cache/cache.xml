@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Chun Wei\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.0\a7537446a030da8eb0da4c71424d16c2589f6c4a\glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\glide-3.6.0_cd966fd176a67923a2a4ba6b45e4422052c7c47a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-7.5.0_56b80b6b78fb66e40c7f4ba2deaeede1aef08750.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chun Wei\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\gson-2.3.1_1a8c31760ac30bf8f06bcbe70c23ad73c024ba04.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.bignerdranch.android\expandablerecyclerview\2.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="60430e47e1fb0be5502390f96a0a4c7f0b4fcb3e">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.bignerdranch.android-expandablerecyclerview-2.1.1_f16ffc3a53a66bd84978fbc740b7c763a41b8dcd.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appstate-7.5.0_cc247ab8f720a1becafc3b96d8053d399417e68d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-7.5.0_cafb71dae3a1c679aa9c63992c1f42287782d7b2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_a6f46701e2dba7af9a19e8d584e763e6adc3fd76.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-7.5.0_3127b61eacb1e31085155f7c875d62da609665c5.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\libs\javacv.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="310927e25b52136954b65608f341dfd5e5ad9d64">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\javacv_7a50944de3baf4b55211bbc51acd8da03123d72f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-7.5.0_5cde01426578e469a4e0324c46ab0ea3df2e5846.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-7.5.0_3c679cfcfc3eada6955f4112414e5511a6926263.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.r0adkll\slidableactivity\2.0.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb19a000e09e99c048c74508be67e8129092760e">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.r0adkll-slidableactivity-2.0.5_3f97a8f5284881b9f1960c00d70723fafc3e70cc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.0.0_e43f9f484e7e84d6299b65bf6d21d82cec3da1e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chun Wei\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\library-2.4.0_ca5ded48a158fc96e37bdd25fe9a694e6f510fbd.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-7.5.0_3c700b3964193322b5a88130809bb056451e5374.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_dc723411cf70d3cb5e9513ce1ca5f64bb793bb25.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-7.5.0_9606ecba50d16e1d7e3f58abf9b7d34c978ad963.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.sothree.slidinguppanel\library\3.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ef5362ef793f9212afafc3a50c5839f650115ebd">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.sothree.slidinguppanel-library-3.3.0_fe5b94ebef8b5362a237e97297f9c58bc0991229.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.afollestad\drag-select-recyclerview\0.3.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="469c2927ddbc7ccd39a0c1552955b1b5233e991d">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.afollestad-drag-select-recyclerview-0.3.6_14085a0b58b12486558cf84e0fd540f927bac215.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\1.2.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e39dd45427d2ba136c82ed1946f80dd3dff16695">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.github.chrisbanes-PhotoView-1.2.6_76a7a317006339d210d90b773e03b671a1f2ad22.jar" />
+    </item>
+    <item
+        jar="C:\androidsdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_d831e37206f354d2eaa37941be1b5aab28010b33.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-7.5.0_7351d5fab7e1ee8dba57baaa9bfcb23a461171d9.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_4d61be2c1567ad18d4f791ced3cb97023a2eedb0.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_a9ab00825cfae6e5f710cd786f8919ff9083c3c1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-7.5.0_3337076a91579be143db1cc916475dc2cdd05efc.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\Imagnition\openCVLibrary310\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a572379fd920d270de491112aab8029072d78ba5">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\Imagnition-openCVLibrary310-unspecified_3f603af589f18028fa7e47ff80bf054c7c1813be.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.0.1_d7c95ec1662f7625fa50dc84d5313a5fd7a514df.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\libs\javacpp.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ff8f2a518e524ae8de093d6556fc21a6ab8f05b2">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\javacpp_e638d8d7b4ba8d3658a7c673b10986ce87cca8bd.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-7.5.0_ca11849de8ef2477c9491ed32419ad936bb8607f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-7.5.0_c87dc902f088ca0b8c1cdb3654a1636ba5ee960a.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-7.5.0_71a645f73136a0419db351098a5cd145c54c38e1.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.afollestad\material-cab\0.1.12\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5d9c3028c07bab2d63b5b8136e225a7474d2937e">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.afollestad-material-cab-0.1.12_fcc7bb5fed8dbb30ad6d862534ac5dc7685a960c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-7.5.0_c5b26c9ca53e33ef6900ad9e3cdbaa44b1f73562.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\face\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b9885b9cbfc39129a13674d39d0cae321fc0dc97">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.microsoft.projectoxford-face-1.0.0_0a0ebba79f1328da80e2beb569e79ac0fddbf10c.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\1.3.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="febdca0af7e75d9e2d621fd99be05dfbfd2667ed">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.roughike-bottom-bar-1.3.3_fffcf708b63358d419af2889fc1199c1736230de.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_a96e69fd303818d3e7ebd280d33fbe1cd1947a9f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_a2149832f9512edaa0e1e5b40fb6fadbe6b3d9b9.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-7.5.0_aeebc9d5b1fddd89b9d720e1bd9392c1f6d56435.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-7.5.0_3e76194fd12121c1280a48d7d17a0d08e0f4d35d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-7.5.0_d17493952b6dd7fd96e69eff49a27945995b5a45.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-7.5.0_702c100f80f703d57c5b8f2a97de6260db419511.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-7.5.0_d1f383042d557f7b894ec0d616c6f4a09e10467b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_a83de86d028d7d96ae0c3d9870f1666f2656ed62.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-22.0.0_69d65592bd0fc56f9cd7398cc00f74bd1902ac74.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="D:\AndroidApps\Imagnitionv2.9\Imagnition\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-7.5.0_053a7f5207b16023bbc92f34ba9ab925bc43a750.jar" />
+    </item>
+
+</items>

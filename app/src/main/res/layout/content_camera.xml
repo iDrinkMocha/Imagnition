@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#000000">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#000"
+        android:id="@+id/cameraTopBarSettings"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp">
+        <ImageButton
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:padding="10dp"
+            android:id="@+id/swapcamera"
+            android:layout_centerVertical="true"
+            android:onClick="swapcamera"
+            android:layout_alignParentRight="true"
+            android:contentDescription="swap camera" />
+
+        <ImageButton
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:padding="10dp"
+            android:id="@+id/beaming"
+            android:layout_centerVertical="true"
+            android:onClick="beaming"
+            android:backgroundTint="@color/colorAccent"
+            android:layout_centerHorizontal="true"
+            android:contentDescription="Beaming" />
+        <ImageButton
+            android:layout_width="22dp"
+            android:layout_height="22dp"
+            android:padding="10dp"
+            android:id="@+id/flash"
+            android:layout_centerVertical="true"
+            android:onClick="flash"
+            android:layout_alignParentLeft="true"
+            android:contentDescription="Beaming" />
+    </RelativeLayout>
+    <TextureView
+        android:id="@+id/textureView"
+        android:layout_width="match_parent"
+        android:layout_height="470dp"
+        android:layout_below="@id/cameraTopBarSettings"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="470dp"
+        android:background="#000"
+        android:id="@+id/blackOverlay"
+        android:layout_alignTop="@id/textureView"
+        android:onClick="capturePhoto"
+        android:alpha="0" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/textureView">
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/previewLatestImage"
+            android:onClick="previewLatestImage"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="30dp"
+            android:scaleType="centerCrop"/>
+        <View
+            android:id="@+id/button_capture"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:onClick="capturePhoto"
+            android:clickable="true"
+            android:background="@drawable/shutterbtnstates"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+</RelativeLayout>
